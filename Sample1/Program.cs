@@ -11,7 +11,7 @@ namespace Sample1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
-            Conole.WeiteLine("Added after firstbuild");
+            Conole.WeiteLine("Added after firstbuild")
         }
     }
 }
