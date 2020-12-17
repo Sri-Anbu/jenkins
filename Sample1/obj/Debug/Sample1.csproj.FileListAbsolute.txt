@@ -1,0 +1,7 @@
+D:\.net\Spl\Day3\Sample1\Sample1\bin\Debug\Sample1.exe.config
+D:\.net\Spl\Day3\Sample1\Sample1\bin\Debug\Sample1.exe
+D:\.net\Spl\Day3\Sample1\Sample1\bin\Debug\Sample1.pdb
+D:\.net\Spl\Day3\Sample1\Sample1\obj\Debug\Sample1.csprojAssemblyReference.cache
+D:\.net\Spl\Day3\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+D:\.net\Spl\Day3\Sample1\Sample1\obj\Debug\Sample1.exe
+D:\.net\Spl\Day3\Sample1\Sample1\obj\Debug\Sample1.pdb
